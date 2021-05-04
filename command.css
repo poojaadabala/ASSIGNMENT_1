@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://media.designcafe.com/wp-content/uploads/2020/01/21001549/living-room-wall-decor-ideas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Arial Narrow';
+}
+h1{
+    color: white;
+    text-align:center;
+    font-size: 50px;
+    margin-top: 150px;
+}
+h6{
+    color: white;
+    text-align:center;
+}
+h3{
+    margin-left: 90px;
+}
+table{
+    color: white;
+    font-size: 16px;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    text-decoration:2px underline green;
+}
+input{
+    background-color: transparent;
+    color: white;
+    border:2px solid green;
+    font-size: 16px;
+}
+input:hover{
+    background-color: rgb(11, 182, 11);
+}
